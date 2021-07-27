@@ -20,8 +20,9 @@ nerdy-nugget
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <br />
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-  <br />
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
+  <br />
+
 
 ![Github Trophies](https://github-profile-trophy.vercel.app/?username=nerdy-nugget&theme=darkhub)
 
