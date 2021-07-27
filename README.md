@@ -2,7 +2,7 @@
 
 [![Mail Badge](https://img.shields.io/badge/-tdlauder07@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tdlauder07@gmail.com)](mailto:tdlauder07@gmail.com)
 ---
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+<img align="right" alt="GIF" src="https://i.gifer.com/6jdy.gif" />
 
 
 ### I'm Thomas.
@@ -32,6 +32,6 @@ nerdy-nugget
 - [GeekMetric 🌐](https://github.com/geekmetric/geekmetric)
 - [Random Word Generator 📝](https://github.com/nerdy-nugget/random-word-generator)
 
-<img align="right" alt="GIF" src="https://i.redd.it/qgyn862iacl01.gif" />
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/0e/79/8f/0e798f91138755ce7386df586f6feb3b.gif" />
 
 > ***I love to meet fellow developers. so if you want to say hi, I'll be happy to meet you more!😊***
