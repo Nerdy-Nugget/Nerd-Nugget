@@ -2,7 +2,6 @@
 
 [![Mail Badge](https://img.shields.io/badge/-tdlauder07@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tdlauder07@gmail.com)](mailto:tdlauder07@gmail.com)
 ---
-<img align="right" alt="GIF" src="https://i.gifer.com/6jdy.gif"/>
 
 
 ### I'm Thomas.
